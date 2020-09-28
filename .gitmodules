@@ -1,0 +1,6 @@
+[submodule "project-bali-mvc"]
+	path = project-bali-mvc
+	url = https://github.com/Groep14-ROCvTwente/project-bali-mvc
+[submodule "project-bali-docs"]
+	path = project-bali-docs
+	url = https://github.com/Groep14-ROCvTwente/project-bali-docs
